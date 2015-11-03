@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_image_view">storyImageView</string>
+    <string name="title_button_text">Start your journey!</string>
+    <string name="title_edit_text">Insert your name, traveler</string>
+</resources>

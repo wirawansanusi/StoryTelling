@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Storytelling</string>
+    <string name="title_image_view">storyImageView</string>
+    <string name="title_button_text">Start your journey!</string>
+    <string name="title_edit_text">Insert your name, traveler</string>
+    <string name="title_activity_story">Story Activity</string>
+</resources>
